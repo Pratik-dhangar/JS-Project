@@ -1,2 +1,1 @@
-# JS-Project
-basic Js projects.
+<h1 align="center">Basic Js Projects</h1>
